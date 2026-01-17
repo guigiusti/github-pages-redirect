@@ -1,0 +1,33 @@
+{
+    "title": "Guilherme Giusti - {page}",
+    "redirects": [
+        {
+            "location": "/",
+            "redirect": "https://guigiusti.com"
+        },
+        {
+            "location": "/github",
+            "redirect": "https://github.com/guigiusti"
+        },
+        {
+            "location": "/linkedin",
+            "redirect": "https://linkedin.com/in/guigiusti"
+        },
+        {
+            "location": "/textos",
+            "redirect": "https://kinoentropia.substack.com/"
+        },
+        {
+            "location": "/fotografias",
+            "redirect": "https://www.behance.net/guigiusti"
+        },
+        {
+            "location": "/texts",
+            "redirect": "https://kinoentropia.substack.com/"
+        },
+        {
+            "location": "/photos",
+            "redirect": "https://www.behance.net/guigiusti"
+        }
+    ]
+}
