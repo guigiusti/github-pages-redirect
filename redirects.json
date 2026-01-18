@@ -28,6 +28,10 @@
         {
             "location": "/photos",
             "redirect": "https://www.behance.net/guigiusti"
+        },
+        {
+            "location": "/404",
+            "redirect": "https://guigiusti.com"
         }
     ]
 }
