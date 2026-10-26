@@ -34,7 +34,7 @@
             "redirect": "https://guigiusti.com"
         },
         {
-            "location": "/qr",
+            "location": "/qrcode",
             "redirect": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
     ]
