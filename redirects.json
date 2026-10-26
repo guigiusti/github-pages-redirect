@@ -36,6 +36,10 @@
         {
             "location": "/qrcode",
             "redirect": "https://www.youtube.com/watch?v=j5a0jTc9S10"
+        },
+        {
+          "location": "/lost",
+          "redirect": "mailto:lost@ggr.dev"
         }
     ]
 }
